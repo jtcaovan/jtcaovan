@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/61437879/127379494-6da847fd-680b-4168-b7ba-f45e4bc0b9b2.mp4
+![Copy of JUSTIN CAOVAN (1)](https://user-images.githubusercontent.com/61437879/127383114-a80d85a1-e272-4340-ba14-756bb2aeca01.png)
 
 ### Frontend Developer based out of Phoenix, AZ
 

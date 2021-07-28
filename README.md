@@ -1,4 +1,4 @@
-![JUSTIN CAOVAN](https://user-images.githubusercontent.com/61437879/127372270-74d5a86f-6548-4b7d-adee-cd737fd86019.png)
+![Copy of JUSTIN CAOVAN](https://user-images.githubusercontent.com/61437879/127372504-70cabb0d-d750-42a4-a5c7-a4fd9bd2b6ab.png)
 
 
 ### Hi there 👋

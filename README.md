@@ -1,7 +1,6 @@
-![Copy of JUSTIN CAOVAN (1)](https://user-images.githubusercontent.com/61437879/127372765-96f0cb2c-6f2e-41e0-bb02-2b1445a3e9ae.png)
+https://user-images.githubusercontent.com/61437879/127379494-6da847fd-680b-4168-b7ba-f45e4bc0b9b2.mp4
 
-
-### Hi, my name is Justin Caovan and I'm a Frontend Developer based out of Phoenix, AZ
+### Frontend Developer based out of Phoenix, AZ
 
 <!--
 **jtcaovan/jtcaovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

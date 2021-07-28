@@ -4,9 +4,9 @@
 
 <h3 align='center'>Frontend Developer open for new opportunities!</h3>
 
-
-* 📝 Currently studying Node/Expess to branch into Backend development
-* 📫 How to reach me: justincaovan@gmail.com
+* :godmode: Self-taught developer with experience in building React.js apps
+* 📝  Currently learning **Node.js + Express.js**
+* 📫  How to reach me: justincaovan@gmail.com
 
 ## Connect with me:
 [LinkedIn](https://www.linkedin.com/in/justincaovan/)

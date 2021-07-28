@@ -1,4 +1,4 @@
-[JUSTIN CAOVAN.pdf](https://github.com/jtcaovan/jtcaovan/files/6895488/JUSTIN.CAOVAN.pdf)
+![JUSTIN CAOVAN](https://user-images.githubusercontent.com/61437879/127372270-74d5a86f-6548-4b7d-adee-cd737fd86019.png)
 
 
 ### Hi there 👋

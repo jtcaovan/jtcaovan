@@ -1,5 +1,3 @@
-![Copy of JUSTIN CAOVAN (2)](https://user-images.githubusercontent.com/61437879/127384542-776e5d8d-a3c1-4776-8c7c-3827bc13b786.png)
-![Copy of JUSTIN CAOVAN (3)](https://user-images.githubusercontent.com/61437879/127384562-c6763b57-9a1a-46ef-b82a-369650f66902.png)
 ![Copy of JUSTIN CAOVAN (2)](https://user-images.githubusercontent.com/61437879/127384573-0a0485d8-5709-4157-b9f8-cbb859aaba18.png)
 
 ### Frontend Developer based out of Phoenix, AZ

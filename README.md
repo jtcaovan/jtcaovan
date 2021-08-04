@@ -7,7 +7,7 @@
 * :godmode: Self-taught developer with experience in building React.js apps
 * 📝  Currently learning **Node.js + Express.js**
 * 📫  How to reach me: justincaovan@gmail.com
-*  In my free time, I'm a rock climber and currently reading my way through the top Fantasy book list according to Reddit users
+*  In my free time, I enjoy rock climbing and immersing myself in a fantasy novel.
 
 ## Connect with me:
 [LinkedIn](https://www.linkedin.com/in/justincaovan/)

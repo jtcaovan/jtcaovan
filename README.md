@@ -5,9 +5,10 @@
 <h3 align='center'>Frontend Developer open for new opportunities!</h3>
 
 * :godmode: Self-taught developer with experience in building React.js apps
-* 🖥.  Check out my portfolio @ [www.justincaovan.com!](https://www.justincaovan.com/)
 * 📝   Currently learning **Node.js + Express.js**
+* 🖥.  Check out my portfolio @ [www.justincaovan.com!](https://www.justincaovan.com/)
 * 📫   How to reach me: justincaovan@gmail.com
+
 <!-- *  In my free time, I enjoy rock climbing and immersing myself in a fantasy novel.
  -->
 ## Connect with me:

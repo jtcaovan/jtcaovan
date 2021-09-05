@@ -15,3 +15,4 @@
 [LinkedIn](https://www.linkedin.com/in/justincaovan/)
 
 ## Languages and Tools:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtcaovan&theme=tokyonight)

@@ -1,12 +1,12 @@
 ![Copy of JUSTIN CAOVAN (2)](https://user-images.githubusercontent.com/61437879/127384573-0a0485d8-5709-4157-b9f8-cbb859aaba18.png)
 
 <h1 align='center'>:v: Hi, I'm Justin!</h1> 
+<h3 align='center'>Frontend Developer open for new opportunities!</h3>
 
 <!-- ![linkedin-box-fill](https://user-images.githubusercontent.com/61437879/132145413-9dddeb83-ea21-47c1-a6a6-7bb383fae34e.png)
  -->
-<h3 align='center'>Frontend Developer open for new opportunities!</h3>
 
-* :godmode: Self-taught developer with experience in building React.js apps
+* :godmode: I'm a self-taught developer with experience in building React.js apps
 * 📝   Currently learning **Node.js + Express.js**
 * 🖥.  Check out my portfolio @ [www.justincaovan.com!](https://www.justincaovan.com/)
 * 📫   How to reach me: justincaovan@gmail.com

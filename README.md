@@ -7,7 +7,7 @@
  -->
 
 * :godmode: I'm a self-taught developer with experience in building beautiful,responsive, and intuitive React.js apps.
-* 📝   Currently learning **Node.js + Express.js**
+* 📝   Currently learning **TypeScript,Node.js, and Express.js**
 * 🖥.  Check out my portfolio @ [www.justincaovan.com!](https://www.justincaovan.com/)
 * 📫   How to reach me: justincaovan@gmail.com
 * 😄 In my free time I enjoy rock climbing, camping, hiking, and reading fantasy books.

@@ -6,11 +6,11 @@
 <!-- ![linkedin-box-fill](https://user-images.githubusercontent.com/61437879/132145413-9dddeb83-ea21-47c1-a6a6-7bb383fae34e.png)
  -->
 
-* :godmode: I'm a self-taught developer with experience in building beautiful,responsive, and intuitive React.js apps.
-* 📝   Currently learning **TypeScript, React Native, and evetually Node.js/Express.js**
+* :godmode: I'm a self-taught developer with experience in building beautiful, responsive, and intuitive React.js apps.
+* 📝   Currently learning **TypeScript, React Native, and Node.js/Express.js**
 * 🖥.  Check out my portfolio @ [www.justincaovan.com!](https://www.justincaovan.com/)
 * 📫   How to reach me: justincaovan@gmail.com
-* 😄 In my free time I enjoy rock climbing, camping, hiking, and reading fantasy books.
+* 😄 In my free time I enjoy rock climbing, camping, hiking, growing my indoor plants, and reading fantasy books.
 
 <!-- *  In my free time, I enjoy rock climbing and immersing myself in a fantasy novel.
  -->

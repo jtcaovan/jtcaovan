@@ -10,7 +10,7 @@
 * 📝   Currently learning **TypeScript, React Native, and Node.js/Express.js**
 * 🖥.  Check out my portfolio @ [www.justincaovan.com!](https://www.justincaovan.com/)
 * 📫   Best way to reach me: justincaovan@gmail.com
-* 😄 In my free time I enjoy rock climbing, camping, hiking, growing my indoor plants, and reading fantasy books.
+* 😄 In my free time I enjoy rock climbing, camping, hiking, tending to my indoor plants, and reading fantasy books.
 
 <!-- *  In my free time, I enjoy rock climbing and immersing myself in a fantasy novel.
  -->

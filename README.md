@@ -12,7 +12,7 @@ I'm a Frontend developer with a previous background in Sports Medicine. I have a
 * 📝   Currently learning **TypeScript and Node.js/Express.js**
 * 🖥.  Check out my portfolio @ [www.justincaovan.com!](https://www.justincaovan.com/)
 * 📫   Best way to reach me: justincaovan@gmail.com
-* 😄 In my free time I'm an amateur rock climber, semi-professional pitcher of crumpled up paper balls for my cat, and an avid fantasy book reader.
+* 😄 In my free time I'm an amateur rock climber, semi-professional pitcher of crumpled up paper balls for my cat Mango, and an avid fantasy book reader.
 
 <!-- *  In my free time, I enjoy rock climbing and immersing myself in a fantasy novel.
  -->

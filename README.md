@@ -1,10 +1,19 @@
 ![Copy of JUSTIN CAOVAN (2)](https://user-images.githubusercontent.com/61437879/127384573-0a0485d8-5709-4157-b9f8-cbb859aaba18.png)
+<h1 align='center'>:v: Hi, I'm Justin!</h1>
 
-<h1 align='center'>:v: Hi, I'm Justin!</h1> 
 <h3 align='center'>Frontend Developer open for new opportunities!</h3>
+<div align='center'>
+  <a href="https://www.linkedin.com/in/justincaovan/">
+     <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/>
+  </a>
+  <a href="mailto:justincaovan@gmail.com">
+     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
+  </a>
+  <a href="https://t.me/justincaovan">
+     <img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'/>
+  </a>
+</div>
 
-<!-- ![linkedin-box-fill](https://user-images.githubusercontent.com/61437879/132145413-9dddeb83-ea21-47c1-a6a6-7bb383fae34e.png)
- -->
 ### About Me
 I'm a Frontend developer with a previous background in Sports Medicine. I have an enthusiasm for building beautiful and innovative web applications with React.js. I love to tinker with anything UI-related and I'm constantly seeking opportunities to learn new concepts, technologies, and tools. 
 <!-- Why I enjoy coding - making an impact on a wider scale, building and creating something that is my own,  -->
@@ -13,14 +22,6 @@ I'm a Frontend developer with a previous background in Sports Medicine. I have a
 * 🖥.  Check out my portfolio @ [www.justincaovan.com!](https://www.justincaovan.com/)
 * 📫   Best way to reach me: justincaovan@gmail.com
 * 😄 In my free time I'm an amateur rock climber, semi-professional pitcher of crumpled up paper balls for my cat Mango, and an avid fantasy book reader.
-
-<!-- *  In my free time, I enjoy rock climbing and immersing myself in a fantasy novel.
- -->
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justincaovan/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justincaovan@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/justincaovan)
-
 
 ## Languages and Tools:
 <!-- ![reactjs-line](https://user-images.githubusercontent.com/61437879/132145701-1a81dcbb-9abe-497f-8c39-9d411597c77c.png) -->

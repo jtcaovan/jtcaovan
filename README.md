@@ -15,7 +15,7 @@
 </div>
 
 ### About Me
-I'm a Frontend developer with a previous background in Sports Medicine. I have an enthusiasm for building beautiful and innovative web applications with React.js. I love to tinker with anything UI-related and I'm constantly seeking opportunities to learn new concepts, technologies, and tools. 
+I'm a Frontend developer with a previous background in Sports Medicine. I have an enthusiasm for building beautiful and innovative web applications. I love to tinker with anything UI-related and I'm constantly seeking opportunities to learn new concepts, technologies, and tools. 
 <!-- Why I enjoy coding - making an impact on a wider scale, building and creating something that is my own,  -->
 
 * 📝   Currently learning **Node.js/Express.js**

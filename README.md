@@ -1,4 +1,5 @@
-![Copy of JUSTIN CAOVAN (2)](https://user-images.githubusercontent.com/61437879/127384573-0a0485d8-5709-4157-b9f8-cbb859aaba18.png)
+![Justin Caovan (4)](https://user-images.githubusercontent.com/61437879/141415998-38d64d14-aa7d-4abe-aa02-f865f20966f9.png)
+
 <h1 align='center'>:v: Hi, I'm Justin!</h1>
 
 <h3 align='center'>Frontend Developer open for new opportunities!</h3>

@@ -19,7 +19,6 @@
 I'm a Frontend developer with a previous background in Sports Medicine. I have an enthusiasm for building beautiful and innovative web applications. I love to tinker with anything UI-related.
 <!-- Why I enjoy coding - making an impact on a wider scale, building and creating something that is my own,  -->
 
-* 📝   Currently learning **Node.js/Express.js**
 * 🖥.  Check out my portfolio @ [www.justincaovan.com!](https://www.justincaovan.com/)
 * 📫   Best way to reach me: justincaovan@gmail.com
 * 😄 In my free time I'm an amateur rock climber, semi-professional pitcher of crumpled up paper balls for my cat Mango, and an avid fantasy book reader.

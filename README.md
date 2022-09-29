@@ -21,7 +21,6 @@ I'm a Frontend developer with a previous background in Sports Medicine. I have a
 
 * 🖥.  Check out my portfolio @ [www.justincaovan.com!](https://www.justincaovan.com/)
 * 📫   Best way to reach me: justincaovan@gmail.com
-* 😄 In my free time I'm an amateur rock climber, semi-professional pitcher of crumpled up paper balls for my cat Mango, and an avid fantasy book reader.
 
 ## Languages and Tools:
 <!-- ![reactjs-line](https://user-images.githubusercontent.com/61437879/132145701-1a81dcbb-9abe-497f-8c39-9d411597c77c.png) -->

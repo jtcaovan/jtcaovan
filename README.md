@@ -16,7 +16,7 @@
 </div>
 
 ### About Me
-I'm a Frontend developer with a previous background in Sports Medicine. I have an enthusiasm for building beautiful and innovative web applications. I love to tinker with anything UI-related.
+I'm a Frontend developer with an enthusiasm for building beautiful and innovative web applications.
 <!-- Why I enjoy coding - making an impact on a wider scale, building and creating something that is my own,  -->
 
 * 🖥.  Check out my portfolio @ [www.justincaovan.com!](https://www.justincaovan.com/)

@@ -9,9 +9,6 @@
   <a href="mailto:justincaovan@gmail.com">
      <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
   </a>
-  <a href="https://t.me/justincaovan">
-     <img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'/>
-  </a>
 </div>
 
 <!-- Why I enjoy coding - making an impact on a wider scale, building and creating something that is my own,  -->
